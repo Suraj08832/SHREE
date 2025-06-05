@@ -1,4 +1,4 @@
-from shree.core.bot import INNOCENT
+from shree.core.bot import SHREE
 from shree.core.dir import dirr
 from shree.core.git import git
 from shree.core.userbot import Userbot
@@ -12,7 +12,7 @@ git()
 dbb()
 heroku()
 
-app = INNOCENT()
+app = SHREE()
 api = SafoneAPI()
 userbot = Userbot()
 
